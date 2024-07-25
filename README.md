@@ -1,2 +1,3 @@
-# masters_thesis
-Masters thesis paper for public hosting.
+# MSc Computational Neuroscience, Cognition and AI Thesis
+## Investigating the impact of traumatic brain injuries on brain connectivity changes for Alzheimer’s disease using probabilistic tractography, Tom Aldridge 2022
+The above .pdf contains my Masters' thesis for the 2022 academic year. For this work, I scored 85% which was the highest score across the entire School of Psychology at the University of Nottingham. The work involved contributing to an open source Python library for probabilistic tract determination, running hundreds of gigabytes of data on the Nottingham High Performance Compute Cluster, analysing the results and writing the final thesis based on the results.
